@@ -1,10 +1,12 @@
 import "./App.css";
-import Counter from "./compoenets/Counter";
+// import Counter from "./compoenets/Counter";
+import LikeButton from "./compoenets/LikeButton";
 
 function App() {
   return (
   <>
-  <Counter />
+  {/* <Counter /> */}
+  <LikeButton />
   </>
   );
 }
