@@ -25,7 +25,7 @@ function Form() {
         />
 
         {/* Submit button */}
-        <button type="submit" className="bg">Subscribe to monthly newsletter</button>
+        <button type="submit" style={{ backgroundColor: "#0e1d33" }} className=" text-white py-3 rounded-lg">Subscribe to monthly newsletter</button>
       </form>
     </div>
   );

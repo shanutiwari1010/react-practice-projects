@@ -32,11 +32,16 @@ function App() {
                 much more!
               </li>
             </ul>
+
             <Form />
           </div>
 
           <div className=" m-0 p-0">
-            <img src="/assets/illustration-sign-up-desktop.svg" alt="img" className="m-0" />
+            <img
+              src="/assets/illustration-sign-up-desktop.svg"
+              alt="img"
+              className="m-0"
+            />
           </div>
         </div>
       </div>
